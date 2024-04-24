@@ -15,9 +15,11 @@
     "@ant-design/pro-components": "^2.4.4",
     "@umijs/max": "^4.1.9",
     "antd": "^5.4.0",
-    "mockjs": "^1.1.0"
+    "mockjs": "^1.1.0",
+    "umi-request": "^1.4.0"
   },
   "devDependencies": {
+    "@types/mockjs": "^1.0.10",
     "@types/react": "^18.0.33",
     "@types/react-dom": "^18.0.11",
     "husky": "^9",
