@@ -1,7 +1,6 @@
+import { request } from '@@/plugin-request';
 import { PageContainer } from '@ant-design/pro-components';
 import { useEffect } from 'react';
-import request from 'umi-request';
-
 const HomePage: React.FC = () => {
   // test
   useEffect(() => {
