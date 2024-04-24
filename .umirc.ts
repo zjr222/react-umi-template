@@ -18,7 +18,7 @@ export default defineConfig({
     },
   },
   mock: {
-    include: ['mock/**'],
+    include: ['src/mock/*.ts'],
   },
   reactQuery: {},
   routes: [

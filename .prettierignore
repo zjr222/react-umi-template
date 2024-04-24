@@ -1,3 +1,9 @@
 node_modules
 .umi
 .umi-production
+.umirc
+.lintstagedrc
+.eslintrc
+.package-lock
+.stylelintrc
+.prettierrc
